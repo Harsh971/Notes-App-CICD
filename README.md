@@ -1,5 +1,5 @@
 # Notes-App-CICD
-<img src="https://github.com/Harsh971/Notes-App-CICD/blob/main/architecture.png"></img>
+<img src="https://github.com/Harsh971/Notes-App-CICD/blob/main/architecture.gif"></img>
 
 ## Project Overview:
 This project focuses on automating the deployment of a Notes App. The code, stored on GitHub, is cloned, a Docker image is created and pushed to Docker Hub, and then the application is hosted.
